@@ -1,5 +1,7 @@
 # Fridge Repair Bracket
 
+![picture of mount](./images/1.jpg)
+
 ## Overview
 
 Fixes a problem I experienced with my fridge shelf drawer not being connected to the shelf.
@@ -8,15 +10,14 @@ Specifically designed for Frigidaire (FRT18G4AWM)
 
 ## Printing Instructions
 
-100% Infill is recommended for best results
-
-.2mm or .3mm layer height
+- 100% Infill is recommended for best results
+- .2mm or .3mm layer height
 
 ## Lore
 
 Why replace the entire fridge drawer when you can print a 5-10 cent piece of PLA instead?
 
-# License
+## License
 This work is licensed under a
 [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
 

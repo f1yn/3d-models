@@ -1,5 +1,7 @@
 # Radial Photo Frame (v1)
 
+![frame](./images/1.jpg)
+
 ## Overview
 
 This is a lightweight frame that holds exactly 14 4x6" photographs.
@@ -31,17 +33,34 @@ I've included some diagrams to explain the layout of various pieces, but essenti
 - `connectors.stl` - 2 prints
 - `backplate.stl` - 14 prints
 
+## Diagrams
+
+### Connectors
+
+![d1](./images/connectors-1.png)
+![d1](./images/connectors-2.png)
+
+
+### Frame layout
+
+![d1](./images/frames.png)
+
+
+### Orbit layout
+
+![d1](./images/orbit.png)
+
+## Additional notes
 Based on the MK3S build plate, it's recommended that you print one piece at a time. Printing one frame, and the connectors
 first will help diagnose if your printing tolerances are up to snuff, or if you need additional tuning or tweaks in your slicer.
 If this is the case, changing your slicing settings should yield better results (i.e XY Size Compensation).
 
-# Lore
-
+## Lore
 I wanted a wall multi-picture frame, but the ones I kept seeing were made for 6 pictures. Felt obligated to put my newly learned CAD
 practicing to work.
 
 
-# License
+## License
 This work is licensed under a
 [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
 

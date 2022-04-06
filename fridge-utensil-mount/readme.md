@@ -1,4 +1,6 @@
-# RFridge Utensil Mounts
+# Fridge Utensil Mounts
+
+![mount](./images/1.jpg)
 
 ## Overview
 
@@ -31,13 +33,13 @@ Here's some of the more notable parameters you can change, though there are lots
 - `magnet_diam` - the width of magnets (mm)
 - `magnet_count` - the number of magnets distributed on each side of the mount
 
-# Lore
+## Lore
 
 I don't like digging for my kitchen utensils. Having them easy to find and easy to see meant they are used more, and
 encourage me to put them in the same spot after each meal and clean. 10/10 would utensil mount again.
 
 
-# License
+## License
 This work is licensed under a
 [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
 
