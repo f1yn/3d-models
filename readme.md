@@ -83,7 +83,7 @@ Each directory represents a _mostly_ or _fully_ complete project, each with:
      Is your light-switch also really close to a toddler crib? Deter your button-fiend(s) with this light switch cover specifically designed
 to only allow use from one side.
       <br><br>
-      <a href="#">Printables.com</a> |
+      <a href="https://www.printables.com/model/376436-baby-safe-light-switch-cover-decora">Printables.com</a> |
       <a href="./babysafe-lightswitch-cover">Source</a>
     </td>
     <td>
@@ -96,7 +96,7 @@ to only allow use from one side.
     <td>
       Attach your littlelf camera (or other orbital cameras) to a non-flat surface. Easily modified with parameters.
       <br><br>
-      <a href="#">Printables.com</a> |
+      <a href="https://www.printables.com/model/376442-orbital-camera-mount-parametric">Printables.com</a> |
       <a href="./orbital-camera-mount">Source</a>
     </td>
     <td>
