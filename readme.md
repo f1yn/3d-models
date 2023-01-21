@@ -5,12 +5,12 @@ using a 3d printer.
 
 Each directory represents a _mostly_ or _fully_ complete project, each with:
 
-* **A readme file**, containing the project overview, fabrication requirements (mostly slicer settings), and assembly instructions.
-* **One or more 3d model files** (`.stl`), that represents a different part of a project's assembly.
-* **Picture(s) demonstrating the intended final result** after fabricating the entire assembly.
-* **A FreeCAD file*** (`.FCStd`). This can be used for making modifications to different parametric settings to adjust spacings,
+- **A readme file**, containing the project overview, fabrication requirements (mostly slicer settings), and assembly instructions.
+- **One or more 3d model files** (`.stl`), that represents a different part of a project's assembly.
+- **Picture(s) demonstrating the intended final result** after fabricating the entire assembly.
+- **A FreeCAD file\*** (`.FCStd`). This can be used for making modifications to different parametric settings to adjust spacings,
   paddings, and other measurements.
-    * \* (just a note that not all projects will have this)
+  - \* (just a note that not all projects will have this)
 
 ## Projects
 
@@ -74,6 +74,33 @@ Each directory represents a _mostly_ or _fully_ complete project, each with:
     </td>
     <td>
       <code>false</code>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Baby-safe light-switch cover</strong></td>
+    <td><img src="https://raw.githubusercontent.com/f1yn/3d-models/main/babysafe-lightswitch-cover/images/1.jpg" width="100%" height="100%"></td>
+    <td>
+     Is your light-switch also really close to a toddler crib? Deter your button-fiend(s) with this light switch cover specifically designed
+to only allow use from one side.
+      <br><br>
+      <a href="#">Printables.com</a> |
+      <a href="./babysafe-lightswitch-cover">Source</a>
+    </td>
+    <td>
+      <code>true</code>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Orbital Camera Mount</strong></td>
+    <td><img src="https://raw.githubusercontent.com/f1yn/3d-models/main/orbital-camera-mount/images/1.jpg" width="100%" height="100%"></td>
+    <td>
+      Attach your littlelf camera (or other orbital cameras) to a non-flat surface. Easily modified with parameters.
+      <br><br>
+      <a href="#">Printables.com</a> |
+      <a href="./orbital-camera-mount">Source</a>
+    </td>
+    <td>
+      <code>true</code>
     </td>
   </tr>
 </table>
