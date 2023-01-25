@@ -10,6 +10,8 @@ Is your light-switch also really close to a toddler crib? Deter your button-fien
 
 This model will only work with Decora-styled light switches (the ones that have the thick toggle switches). The included FreeCAD file can be used to generate alternative styles.
 
+For the best results, use the `.step` file as it preserves the curved top surface, resulting in a better print.
+
 An additional STL for a unmodified-Decora light switch has been included - `plain-cover.stl`
 
 ## Lore
