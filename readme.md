@@ -23,13 +23,13 @@ Each directory represents a _mostly_ or _fully_ complete project, each with:
   </tr>
   <tr>
     <td><strong>Fideco Drive Fixture</strong></td>
-    <td><img src="https://raw.githubusercontent.com/f1yn/3d-models/main/fideco-drive-fixture/images/1.jpg" width="100%" height="100%"></td>
+    <td><img src="https://raw.githubusercontent.com/f1yn/3d-models/main/003-fideco-drive-fixture/images/1.jpg" width="100%" height="100%"></td>
     <td>
       A printable 2.5 drive mounting mod for the Fideco Drive Bay - ‎Y842HB-JP.<br>
       Helps for when you don't plan on removing drives for a considerable amount of time.
       <br><br>
       <a href="https://www.printables.com/model/177882-fideco-drive-fixture">Printables.com</a> |
-      <a href="./fideco-drive-fixture">Source</a>
+      <a href="./003-fideco-drive-fixture">Source</a>
     </td>
     <td>
       <code>true</code>
@@ -37,12 +37,12 @@ Each directory represents a _mostly_ or _fully_ complete project, each with:
   </tr>
   <tr>
     <td><strong>Fridge Utensil Mounts</strong></td>
-    <td><img src="https://raw.githubusercontent.com/f1yn/3d-models/main/fridge-utensil-mount/images/1.jpg" width="100%" height="100%"></td>
+    <td><img src="https://raw.githubusercontent.com/f1yn/3d-models/main/004-fridge-utensil-mount/images/1.jpg" width="100%" height="100%"></td>
     <td>
       Hang utensils on your fridge - great for condensed kitchens.
       <br><br>
       <a href="https://www.printables.com/model/163686-fridge-utensil-mount-parametric">Printables.com</a> |
-      <a href="./fridge-utensil-mount">Source</a>
+      <a href="./004-fridge-utensil-mount">Source</a>
     </td>
     <td>
       <code>true</code>
@@ -50,13 +50,13 @@ Each directory represents a _mostly_ or _fully_ complete project, each with:
   </tr>
   <tr>
     <td><strong>Radial Photo Frame (v1)</strong></td>
-    <td><img src="https://raw.githubusercontent.com/f1yn/3d-models/main/radial-photo-frame-v1/images/1.jpg" width="100%" height="100%"></td>
+    <td><img src="https://raw.githubusercontent.com/f1yn/3d-models/main/001-radial-photo-frame-v1/images/1.jpg" width="100%" height="100%"></td>
     <td>
       This is a lightweight frame that holds exactly 14 4x6" photographs.<br>
       It's not perfect (some sagging) but overall it looks great.
       <br><br>
       <a href="https://www.printables.com/model/163668-radial-photo-frame-v1">Printables.com</a> |
-      <a href="./radial-photo-frame-v1">Source</a>
+      <a href="./001-radial-photo-frame-v1">Source</a>
     </td>
     <td>
       <code>false</code>
@@ -64,13 +64,13 @@ Each directory represents a _mostly_ or _fully_ complete project, each with:
   </tr>
   <tr>
     <td><strong>Fridge Repair Bracket</strong></td>
-    <td><img src="https://raw.githubusercontent.com/f1yn/3d-models/main/fridge-repair-bracket/images/1.jpg" width="100%" height="100%"></td>
+    <td><img src="https://raw.githubusercontent.com/f1yn/3d-models/main/002-fridge-repair-bracket/images/1.jpg" width="100%" height="100%"></td>
     <td>
       Fixes a problem I experienced with my fridge shelf drawer not being connected to the shelf.<br>
       Specifically designed for Frigidaire (FRT18G4AWM)
       <br><br>
       <a href="https://www.printables.com/model/163690-fridge-repair-mount">Printables.com</a> |
-      <a href="./fridge-repair-bracket">Source</a>
+      <a href="./002-fridge-repair-bracket">Source</a>
     </td>
     <td>
       <code>false</code>
@@ -78,13 +78,13 @@ Each directory represents a _mostly_ or _fully_ complete project, each with:
   </tr>
   <tr>
     <td><strong>Baby-safe light-switch cover</strong></td>
-    <td><img src="https://raw.githubusercontent.com/f1yn/3d-models/main/babysafe-lightswitch-cover/images/1.jpg" width="100%" height="100%"></td>
+    <td><img src="https://raw.githubusercontent.com/f1yn/3d-models/main/005-babysafe-lightswitch-cover/images/1.jpg" width="100%" height="100%"></td>
     <td>
      Is your light-switch also really close to a toddler crib? Deter your button-fiend(s) with this light switch cover specifically designed
 to only allow use from one side.
       <br><br>
       <a href="https://www.printables.com/model/376436-baby-safe-light-switch-cover-decora">Printables.com</a> |
-      <a href="./babysafe-lightswitch-cover">Source</a>
+      <a href="./005-babysafe-lightswitch-cover">Source</a>
     </td>
     <td>
       <code>true</code>
@@ -92,12 +92,12 @@ to only allow use from one side.
   </tr>
   <tr>
     <td><strong>Orbital Camera Mount</strong></td>
-    <td><img src="https://raw.githubusercontent.com/f1yn/3d-models/main/orbital-camera-mount/images/1.jpg" width="100%" height="100%"></td>
+    <td><img src="https://raw.githubusercontent.com/f1yn/3d-models/main/006-orbital-camera-mount/images/1.jpg" width="100%" height="100%"></td>
     <td>
       Attach your littlelf camera (or other orbital cameras) to a non-flat surface. Easily modified with parameters.
       <br><br>
       <a href="https://www.printables.com/model/376442-orbital-camera-mount-parametric">Printables.com</a> |
-      <a href="./orbital-camera-mount">Source</a>
+      <a href="./006-orbital-camera-mount">Source</a>
     </td>
     <td>
       <code>true</code>
