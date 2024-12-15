@@ -6,7 +6,7 @@ using a 3d printer.
 Each directory represents a _mostly_ or _fully_ complete project, each with:
 
 - **A readme file**, containing the project overview, fabrication requirements (mostly slicer settings), and assembly instructions.
-- **One or more 3d model files** (`.stl`), that represents a different part of a project's assembly.
+- **One or more 3d model files** (`.stl` or `.step`), that represents a different part of a project's assembly.
 - **Picture(s) demonstrating the intended final result** after fabricating the entire assembly.
 - **A FreeCAD file\*** (`.FCStd`). This can be used for making modifications to different parametric settings to adjust spacings,
   paddings, and other measurements.
@@ -98,6 +98,150 @@ to only allow use from one side.
       <br><br>
       <a href="https://www.printables.com/model/376442-orbital-camera-mount-parametric">Printables.com</a> |
       <a href="./006-orbital-camera-mount">Source</a>
+    </td>
+    <td>
+      <code>true</code>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Enclosure Alpha P35W</strong></td>
+    <td><img src="https://raw.githubusercontent.com/f1yn/3d-models/main/007-enclousre-alpha-p35w/images/1.png" width="100%" height="100%"></td>
+    <td>
+      A custom enclosure for an older gaming laptop repurposed for self-hosting/homelab use.
+      <br><br>
+      <a href="./007-enclousre-alpha-p35w">Source</a>
+    </td>
+    <td>
+      <code>true</code>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Parametric Shower Speaker Mount</strong></td>
+    <td><img src="https://raw.githubusercontent.com/f1yn/3d-models/main/008-parametric-shower-speaker-mount/images/1.png" width="100%" height="100%"></td>
+    <td>
+      A mount for attaching a speaker in the shower. Fully parametric.
+      <br><br>
+      <a href="./008-parametric-shower-speaker-mount">Source</a>
+    </td>
+    <td>
+      <code>true</code>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Bathroom Wall Holder</strong></td>
+    <td><img src="https://raw.githubusercontent.com/f1yn/3d-models/main/009-bathroom-wall-holder/images/1.png" width="100%" height="100%"></td>
+    <td>
+      A makeshift wall-mounted toiletry holder. Fully parametric.
+      <br><br>
+      <a href="./009-bathroom-wall-holder">Source</a>
+    </td>
+    <td>
+      <code>true</code>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Wall Mount Holder</strong></td>
+    <td><img src="https://raw.githubusercontent.com/f1yn/3d-models/main/010-wall-mount-v1/images/1.png" width="100%" height="100%"></td>
+    <td>
+      Simply load bearing wall mount for things that require looped hooks. Adjustable size via FreeCAD.
+      <br><br>
+      <a href="./010-wall-mount-v1">Source</a>
+    </td>
+    <td>
+      <code>true</code>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Kitchen Counter Support Bracket</strong></td>
+    <td><img src="https://raw.githubusercontent.com/f1yn/3d-models/main/011-kitchen-counter-support-bracket/images/1.png" width="100%" height="100%"></td>
+    <td>
+      Does your dish-rack extend your counter? This load bearing design can hold 20 lbs of weight.
+      <br><br>
+      <a href="./011-kitchen-counter-support-bracket">Source</a>
+    </td>
+    <td>
+      <code>true</code>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Parametric Chocolate Bar (Toy)</strong></td>
+    <td><img src="https://raw.githubusercontent.com/f1yn/3d-models/main/012-parametric-chocolate-bar/images/1.png" width="100%" height="100%"></td>
+    <td>
+      A parametric chocolate bar toy with customizable segments and sizes.
+      <br><br>
+      <a href="./012-parametric-chocolate-bar">Source</a>
+    </td>
+    <td>
+      <code>true</code>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Workspace Magnifier</strong></td>
+    <td><img src="https://raw.githubusercontent.com/f1yn/3d-models/main/013-workspace-magnifier/images/1.png" width="100%" height="100%"></td>
+    <td>
+      A magnifier for your workspace to help with detailed tasks.
+      <br><br>
+      <a href="./013-workspace-magnifier">Source</a>
+    </td>
+    <td>
+      <code>true</code>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Furniture Riser</strong></td>
+    <td><img src="https://raw.githubusercontent.com/f1yn/3d-models/main/014-furniture-riser/images/1.png" width="100%" height="100%"></td>
+    <td>
+      Old floors? Tall furniture? Use these to help raise existing pieces off the floor by exact heights. Designed for load bearing.
+      <br><br>
+      <a href="./014-furniture-riser">Source</a>
+    </td>
+    <td>
+      <code>true</code>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Unfinished Samsung Monitor Deco Plate</strong></td>
+    <td><img src="https://raw.githubusercontent.com/f1yn/3d-models/main/015-unfinished-samsung-monitor-deco-plate/images/1.png" width="100%" height="100%"></td>
+    <td>
+      A decorative plate for Samsung monitors.
+      <br><br>
+      <a href="./015-unfinished-samsung-monitor-deco-plate">Source</a>
+    </td>
+    <td>
+      <code>false</code>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Chair Attachment Cleat</strong></td>
+    <td><img src="https://raw.githubusercontent.com/f1yn/3d-models/main/016-chair-attachment-cleat/images/1.png" width="100%" height="100%"></td>
+    <td>
+      A starting point for mounting things to an office chair, without having said thing stay permanently. Uses large zip ties.
+      <br><br>
+      <a href="./016-chair-attachment-cleat">Source</a>
+    </td>
+    <td>
+      <code>true</code>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Parametric Banister Hook v1</strong></td>
+    <td><img src="https://raw.githubusercontent.com/f1yn/3d-models/main/017-parametric-banister-hook-v1/images/1.png" width="100%" height="100%"></td>
+    <td>
+      Adds hooks to where hooks have not gone before. Fully parametric and extremely load bearing. Only intended for square banisters.
+      <br><br>
+      <a href="./017-parametric-banister-hook-v1">Source</a>
+    </td>
+    <td>
+      <code>true</code>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Parametric Slanted Shower Rod Mount</strong></td>
+    <td><img src="https://raw.githubusercontent.com/f1yn/3d-models/main/018-parametric-slant-shower-rod-mount/images/1.png" width="100%" height="100%"></td>
+    <td>
+      Mount your shower-rod in slanted bathrooms using this one neat trick. No screws needed!
+      <br><br>
+      <a href="./018-parametric-slant-shower-rod-mount">Source</a>
     </td>
     <td>
       <code>true</code>
